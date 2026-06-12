@@ -11,7 +11,7 @@ This has been tested on an original Raspberry Pi 1 as well as a raspberry pi 4 u
 
 I've used a range of different techniques within the flow both for my own learning and to outline to others how it is possible to do many of these processes in different ways.  Much of this flow could have been completed in a couple of function nodes, but my javascript skills are fairly basic and I think that may have been more confusing for a node red novice.  This is meant to be a basis for people to build upon rather than a finished product.
 
-A full list of EPSolar ModBus Registers is avaialble here: http://www.solar-elektro.cz/data/dokumenty/1733_modbus_protocol.pdf
+A full list of EPSolar ModBus Registers is avaialble here: [https://web.archive.org/web/20211005104824/http://www.solar-elektro.cz/data/dokumenty/1733_modbus_protocol.pdf](https://web.archive.org/web/20211005104824/http://www.solar-elektro.cz/data/dokumenty/1733_modbus_protocol.pdf)
 
 # Install instructions
 
